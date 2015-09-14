@@ -13,7 +13,7 @@ describe('metalsmith-fetch', function() {
                     return(done(err));
                 } else {
                     Object.keys(files).forEach(function(file) {
-                        assert.notEqual(files[file]['test'].indexOf("<span>Hello world!</span>"),-1);
+                        assert.notEqual(files[file]['test'].indexOf("<!DOCTYPE html>"),-1);
                     });
                     done();
                 }
@@ -29,7 +29,7 @@ describe('metalsmith-fetch', function() {
                     return(done(err));
                 } else {
                     Object.keys(files).forEach(function(file) {
-                        assert.equal(files[file]['test']['foo'],'bar');
+                        assert.notEqual(files[file]['test']['http'],null);
                     });
                     done();
                 }

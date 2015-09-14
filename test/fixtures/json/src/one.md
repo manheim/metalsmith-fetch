@@ -1,6 +1,6 @@
 ---
 title: "Page One with JSON"
-test: "https://raw.githubusercontent.com/manheim/metalsmith-fetch/master/test/fixtures/json/sample.json"
+test: "http://www.apache.org/dyn/closer.cgi?as_json=1"
 ---
 # Heading1
 

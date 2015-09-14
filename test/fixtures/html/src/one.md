@@ -1,6 +1,6 @@
 ---
 title: "Page One with HTML"
-test: "https://raw.githubusercontent.com/manheim/metalsmith-fetch/master/test/fixtures/html/sample.html"
+test: "http://www.apache.org/dyn/closer.cgi"
 ---
 # Heading1
 
