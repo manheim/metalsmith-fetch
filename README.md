@@ -38,7 +38,7 @@ swagger: http://petstore.swagger.io/v2/swagger.json
 Page content
 ```
 
-The template will have access to a "swagger" variable with the full JSON returned by the associated URL.
+The template will have access to a "swagger" variable with the full JSON returned by the URL.
 
 Both fully qualified URLs, as well as local, relative `file:` URLs are supported.
 
