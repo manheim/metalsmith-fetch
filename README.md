@@ -1,5 +1,7 @@
 # metalsmith-fetch
 
+[![Build Status](https://travis-ci.org/manheim/metalsmith-fetch.svg?branch=master)](https://travis-ci.org/manheim/metalsmith-fetch)
+
 A [Metalsmith](https://github.com/segmentio/metalsmith) plugin to fetch a URL property and add it to the file's context.
 
 ## Features
