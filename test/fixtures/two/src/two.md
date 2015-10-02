@@ -1,6 +1,6 @@
 ---
-title: "Page Two with a File"
-test: "file:./test/fixtures/file/test.json"
+title: Page Two with a File
+test: file:./test/fixtures/file/test.json
 ---
 # Heading1
 

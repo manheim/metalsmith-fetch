@@ -1,6 +1,6 @@
 ---
-title: "Page One with HTML"
-test: "http://www.apache.org/dyn/closer.cgi"
+title: Page One with HTML
+test: http://www.apache.org/dyn/closer.cgi
 ---
 # Heading1
 
